@@ -1,0 +1,28 @@
+.cabecalho{
+	text-align: center;
+}
+
+.recife{
+	width: 100%;
+}
+.tiradentes{
+	width: 50%;
+	background-color: #272727; 
+}
+.sM{
+	width: 150px; #o tamanho da imagem é 65% do tamanho da divisoria
+	margin-left: 65%; 
+	float: left;
+}
+.tM{
+    width: 150px;
+    margin-left: 65%;
+    float: left; 
+}
+.hM{
+    
+}
+.cM{
+
+}
+@mediascreen and (min-width: 600px){};
